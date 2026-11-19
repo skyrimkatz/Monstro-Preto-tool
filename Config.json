@@ -1,0 +1,57 @@
+{
+  "foreign": [
+    {
+      "label": "Plushies",
+      "role_id": "0",
+      "min_quantity": 100,
+      "match": [
+        "Plushie"
+      ]
+    },
+    {
+      "label": "Xanax",
+      "role_id": "0",
+      "min_quantity": 50,
+      "match": [
+        "Xanax"
+      ]
+    },
+    {
+      "label": "Flowers",
+      "role_id": "0",
+      "min_quantity": 100,
+      "match": [
+        "Dahlia",
+        "Orchid",
+        "African Violet",
+        "Cherry Blossom",
+        "Peony",
+        "Ceibo Flower",
+        "Edelweiss",
+        "Crocus",
+        "Heather",
+        "Tribulus Omanense"
+      ]
+    }
+  ],
+  "armory": [
+    {
+      "category": "medical",
+      "role_id": "0",
+      "min_available": 20,
+      "cooldown_hours": 6
+    },
+    {
+      "category": "drugs",
+      "role_id": "1572825385408925757",
+      "min_available": 20,
+      "cooldown_hours": 6
+    },
+    {
+      "category": "boosters",
+      "role_id": "0",
+      "min_available": 10,
+      "cooldown_hours": 6
+    }
+  ]
+}
