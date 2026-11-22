@@ -18,13 +18,13 @@
   "swi:Chamois Plushie": true,
   "jap:Xanax": false,
   "jap:Cherry Blossom": true,
-  "chi:Panda Plushie": false,
+  "chi:Panda Plushie": true,
   "chi:Peony": true,
   "uae:Camel Plushie": true,
   "uae:Tribulus Omanense": false,
   "sou:Xanax": false,
   "sou:Lion Plushie": false,
-  "sou:African Violet": true
+  "sou:African Violet": false
  },
  "armory": {}
 }
