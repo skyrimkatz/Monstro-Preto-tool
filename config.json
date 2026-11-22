@@ -2,7 +2,7 @@
   "foreign": [
     {
       "label": "Plushies",
-      "role_id": "0",
+      "role_id": "1574167367641079839",
       "min_quantity": 100,
       "match": [
         "Plushie"
