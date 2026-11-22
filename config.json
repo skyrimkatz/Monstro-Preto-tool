@@ -10,7 +10,7 @@
     },
     {
       "label": "Xanax",
-      "role_id": "0",
+      "role_id": "1572825385408925757",
       "min_quantity": 50,
       "match": [
         "Xanax"
@@ -18,7 +18,7 @@
     },
     {
       "label": "Flowers",
-      "role_id": "0",
+      "role_id": "1572825456296599685",
       "min_quantity": 100,
       "match": [
         "Dahlia",
