@@ -1,13 +1,13 @@
 {
  "foreign": {
-  "mex:Jaguar Plushie": false,
+  "mex:Jaguar Plushie": true,
   "mex:Dahlia": true,
   "cay:Banana Orchid": true,
-  "cay:Stingray Plushie": true,
+  "cay:Stingray Plushie": false,
   "can:Xanax": false,
   "can:Wolverine Plushie": true,
   "can:Crocus": true,
-  "haw:Orchid": false,
+  "haw:Orchid": true,
   "uni:Xanax": false,
   "uni:Nessie Plushie": true,
   "uni:Heather": true,
@@ -17,14 +17,14 @@
   "swi:Edelweiss": true,
   "swi:Chamois Plushie": true,
   "jap:Xanax": false,
-  "jap:Cherry Blossom": true,
+  "jap:Cherry Blossom": false,
   "chi:Panda Plushie": true,
   "chi:Peony": true,
   "uae:Camel Plushie": true,
-  "uae:Tribulus Omanense": false,
+  "uae:Tribulus Omanense": true,
   "sou:Xanax": false,
   "sou:Lion Plushie": true,
-  "sou:African Violet": false
+  "sou:African Violet": true
  },
  "armory": {}
 }
