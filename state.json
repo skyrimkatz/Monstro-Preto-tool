@@ -1,7 +1,7 @@
 {
  "foreign": {
-  "mex:Jaguar Plushie": false,
-  "mex:Dahlia": false,
+  "mex:Jaguar Plushie": true,
+  "mex:Dahlia": true,
   "cay:Banana Orchid": true,
   "cay:Stingray Plushie": true,
   "can:Xanax": false,
@@ -17,10 +17,10 @@
   "swi:Edelweiss": true,
   "swi:Chamois Plushie": true,
   "jap:Xanax": false,
-  "jap:Cherry Blossom": true,
+  "jap:Cherry Blossom": false,
   "chi:Panda Plushie": true,
   "chi:Peony": true,
-  "uae:Camel Plushie": false,
+  "uae:Camel Plushie": true,
   "uae:Tribulus Omanense": true,
   "sou:Xanax": false,
   "sou:Lion Plushie": true,
